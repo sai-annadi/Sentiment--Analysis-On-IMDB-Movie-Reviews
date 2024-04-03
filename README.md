@@ -1,5 +1,4 @@
-# IMDb Movie Review Sentiment Analysis
-
+# Sentiment Analysis On IMDB Movie Reviews
 This project focuses on **sentiment analysis of IMDb movie reviews** to determine whether a review is positive or negative. IMDb is a popular platform for movie enthusiasts to express their opinions about movies, making it a valuable source of data for sentiment analysis.
 
 ## Key Features:
