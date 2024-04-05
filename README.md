@@ -31,4 +31,5 @@ This project aims to provide valuable insights into sentiment analysis of IMDb m
 
 ## How to Use:
 1.Clone the repository to your local machine.
+
 2.Run Jupyter notebooks to explore the data, perform sentiment analysis, and visualize results.
